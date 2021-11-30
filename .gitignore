@@ -5,3 +5,11 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+
+### Adobe ###
+# Adobe Source Files
+*.psd
+*.ai
+*.indd
+*.prproj
+*.aep
